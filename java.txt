@@ -1,0 +1,3 @@
+print [ ("i am ganesh prasad maity 
+from orissa 
+i have complted b.tech")]
